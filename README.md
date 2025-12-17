@@ -32,7 +32,7 @@
 
 <p>Исправление:</p>
 <p>Добавлено:</p>
-```
+```python
 if component == "target":
 	continue
 ```
