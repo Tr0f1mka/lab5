@@ -32,10 +32,10 @@
 
 <p>Исправление:
 Добавлено:
-````python
+`````python
 if component == "target":
 	continue
-````
+`````
 </p>
 
 <p>Проверка:
